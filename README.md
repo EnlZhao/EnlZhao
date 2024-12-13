@@ -9,7 +9,7 @@
 🔭 Currently working on: **LLM System Security**  
 🌱 Learning: **ML, DL, LLM**  
 💬 Ask me about: **Anything tech-related**  
-📫 How to reach me: [Email](mailto:hengzhao2002@gmail.com) | [WeChat](weixin://contacts/profile/EnlZhao) | [Twitter](https://twitter.com/Enl_Zhao)  
+📫 How to reach me: [Email](mailto:hengzhao2002@gmail.com) | [Twitter](https://twitter.com/Enl_Zhao)  
 ⚡ Fun fact: I love exploring the mysteries of the universe
 
 ![Coding Gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
@@ -38,6 +38,6 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](weixin://contacts/profile/EnlZhao)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hengzhao2002@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hengzhao2002@gmail.com)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Enl_Zhap)  
 
 Thank you for visiting my profile! Have a great day! 😊
