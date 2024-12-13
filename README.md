@@ -6,8 +6,8 @@
 ## About Me
 
 👋 Hi, I'm HengZhao!  
-🔭 Currently working on: **Awesome Projects**  
-🌱 Learning: **Cutting-edge Technologies**  
+🔭 Currently working on: **LLM System Security**  
+🌱 Learning: **ML, DL, LLM**  
 💬 Ask me about: **Anything tech-related**  
 📫 How to reach me: [Email](mailto:hengzhao2002@gmail.com) | [WeChat](weixin://contacts/profile/EnlZhao) | [Twitter](https://twitter.com/Enl_Zhao)  
 ⚡ Fun fact: I love exploring the mysteries of the universe
