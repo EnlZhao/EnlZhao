@@ -10,7 +10,7 @@
 🌱 Learning: **ML, DL, LLM**  
 💬 Ask me about: **Anything tech-related**  
 📫 How to reach me: [Email](mailto:hengzhao2002@gmail.com) | [Twitter](https://twitter.com/Enl_Zhao)  
-⚡ Fun fact: I love exploring the mysteries of the universe
+⚡ Fun fact: I love exploring the mysteries of the universe 
 
 ![Coding Gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
@@ -38,6 +38,6 @@
 
 ## 🌐 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hengzhao2002@gmail.com)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Enl_Zhap)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hengzhao2002@gmail.com)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Enl_Zhao)  
 
 Thank you for visiting my profile! Have a great day! 😊
