@@ -10,7 +10,7 @@
 🌱 Learning: **ML, DL, LLM**  
 💬 Ask me about: **Anything tech-related**  
 📫 How to reach me: [Email](mailto:hengzhao2002@gmail.com) | [Twitter](https://twitter.com/Enl_Zhao)  
-⚡ Fun fact: I love exploring the mysteries of the universe 
+⚡ Fun fact: I love exploring the unknown.
 
 ![Coding Gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
