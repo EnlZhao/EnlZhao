@@ -24,7 +24,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnlZhao&layout=compact&theme=radical)
 -->
 
-![](https://raw.githubusercontent.com/EnlZhao/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/EnlZhao/repo-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <!--
 ## 🚀 Projects
