@@ -1,10 +1,5 @@
 # Welcome to HengZhao's World! 🌍
 
-<img src="./Impression-Sunrise.jpg" alt="Welcome Banner" align=center />
-<!--
-> Claude Monet
--->
-
 ## About Me
 
 👋 Hi, I'm HengZhao!  
